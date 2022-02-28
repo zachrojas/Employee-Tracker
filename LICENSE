@@ -1,25 +1,3 @@
-# 12 SQL: Employee Tracker
-
-This is a back end employee tracker app that allows you to view, add, and update various details about a company, including departments, roles, employees, and salary information.
-
-![CLI](./assets/CLIScreenshot.png?raw=true "Screenshot")
-
-Video link: https://drive.google.com/file/d/1yenXqJsqNSEPU_S_uvO2vlXD6LTZNEU8/view
-
-## Installation
-
-To install this app, clone the repo to your local machine and install node packages.
-
-## Usage
-
-Once dependencies are installed, you can start the app with npm start. Then follow the prompts.
-
-## Credits 
-
-TA Jack, BCS, https://dev.mysql.com/doc/, Me
-
-## License
-
 MIT License
 
 Copyright (c) 2022 Zach Rojas
