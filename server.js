@@ -156,10 +156,6 @@ const addEmployee = () => {
     });
 };
 
-// const updateInfo = () => {
-    
-// }
-
 db.connect((err) => {
     if (err) throw err;
     questions();
